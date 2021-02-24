@@ -7,6 +7,7 @@ function App() {
        Hello!!
        <p>My name is Arthur</p>
        <Name/>
+       <State/>
     </div>
   );
 }
